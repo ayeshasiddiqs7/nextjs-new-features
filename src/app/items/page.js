@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function ItemPage() {
   return (
     <>
-      <h1 style={{ textAlign: "center" }}>Iems</h1>
+      <h1 style={{ textAlign: "center" }}>Items</h1>
       <Link href="/" style={{ alignItems: "center" }}>
         <button>Click to go to main page</button>
       </Link>
